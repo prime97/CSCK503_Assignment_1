@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4d6ea28-50ff-4f56-837e-fec4937290b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/CSCK503_Assignment_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sis_clean.py" afterDir="false" />
-    </list>
+    <list default="true" id="b4d6ea28-50ff-4f56-837e-fec4937290b6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/prime97/CSCK503_Assignment_1.git",
+    "accountId": "1c20b331-cb04-43dc-84fe-478395099b51"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -80,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1758363172038</updated>
       <workItem from="1758363173076" duration="1620000" />
-      <workItem from="1758366233165" duration="11275000" />
+      <workItem from="1758366233165" duration="11588000" />
     </task>
     <servers />
   </component>
